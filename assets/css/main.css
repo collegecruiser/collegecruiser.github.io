@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300i,600i,700i|Raleway:600,800");
 
 /*
 	Paradigm Shift by HTML5 UP
@@ -165,7 +165,7 @@ input, select, textarea {
 		color: #000000;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
-		font-weight: 300;
+		font-weight: 400;
 		letter-spacing: 0.0375em;
 		line-height: 2;
 	}
@@ -2208,7 +2208,7 @@ input, select, textarea {
 			display: inline-block;
 			font-family: "Source Sans Pro", Helvetica, sans-serif;
 			font-size: 1rem;
-			font-weight: 300;
+			font-weight: 400;
 			letter-spacing: 0.0375em;
 			padding-left: 2.675rem;
 			padding-right: 0.875rem;
