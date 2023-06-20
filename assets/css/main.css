@@ -157,12 +157,12 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #000000;
+		background-color: #ffffff;
 		color: #ffffff;
 	}
 
 	body, input, select, textarea {
-		color: #ffffff;
+		color: #000000;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
@@ -2203,7 +2203,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #ffffff;
+			color: #000000;
 			cursor: pointer;
 			display: inline-block;
 			font-family: "Source Sans Pro", Helvetica, sans-serif;
